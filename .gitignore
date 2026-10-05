@@ -1,0 +1,23 @@
+# Local report / working documents
+docs/
+
+# Raw dataset
+data/networkTraffic.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
