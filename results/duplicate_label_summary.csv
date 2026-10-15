@@ -1,0 +1,10 @@
+measure,value
+tuning_observations,51534.0
+duplicated_predictor_rows_all_occurrences,19381.0
+duplicate_predictor_patterns,4782.0
+consistent_duplicate_patterns,3240.0
+conflicting_duplicate_patterns,1542.0
+rows_in_consistent_duplicate_patterns,12099.0
+rows_in_conflicting_duplicate_patterns,7282.0
+conflicting_pattern_percentage,32.24592220828105
+conflicting_row_percentage,37.57288065631288

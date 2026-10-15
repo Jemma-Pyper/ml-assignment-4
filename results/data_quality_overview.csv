@@ -1,0 +1,10 @@
+measure,value
+tuning_observations,51534
+predictor_count,42
+numeric_predictor_count,39
+nominal_predictor_count,3
+duplicate_predictor_rows,14599
+duplicate_complete_rows,11907
+constant_predictor_count,0
+one_hot_encoded_predictor_count,153
+total_transformed_predictor_count,192

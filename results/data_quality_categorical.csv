@@ -1,0 +1,4 @@
+predictor,unique_non_missing,missing_count,missing_percentage,categories_after_missing
+proto,132,0,0.0,132
+service,12,28121,54.56785811309039,13
+state,8,0,0.0,8
