@@ -1,0 +1,3 @@
+comparison,mean_macro_f1_difference,sd_difference,t_statistic,degrees_freedom,p_value
+Random Forest vs Classification Tree,0.02464238463390998,0.011879158046490977,3.0923654663890234,4,0.036490412359025885
+Random Forest vs k-Nearest Neighbours,0.10975610998656316,0.008794212968503507,18.604819916224347,4,4.9128193666135105e-05
